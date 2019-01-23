@@ -1,0 +1,36 @@
+.input{
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+.buttons{
+    text-align: center;
+    display:block;
+    float: none;
+    margin-top: 30px;
+    margin-right:5px;
+    
+}
+
+.fbar {
+    background-color:lightgrey;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
+a {
+    padding: 10px;
+}
+
+#fsr {
+    float:right;
+}
+
+#logo {
+    display:block;
+    max-width: 300px;
+    margin: 100px auto 20px auto;
+}
